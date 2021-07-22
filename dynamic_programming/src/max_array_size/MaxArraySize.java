@@ -12,6 +12,7 @@ public class MaxArraySize {
 
     static int maxSubsetSum(int[] arr) {
 
+        //the code would be added later.
       return 1;
     }
 
